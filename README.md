@@ -23,3 +23,6 @@
 
 P.S. Доплнительно поучавствовал в peer-to-peer проекте (на составление тест-кейсов).
 Peer-to-peer - https://docs.google.com/spreadsheets/d/1I5LuUrjPdmtO_gl3oxdbQk9sQTeFGVB4RHcqjH2Boaw/edit#gid=0
+
+Диплом.
+[Томилин Борис Витальевич_20222QA00330.pdf](https://github.com/tomilinbvGit/PortfolioRepository/files/8501800/_20222QA00330.pdf)
