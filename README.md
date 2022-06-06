@@ -28,4 +28,4 @@ Peer-to-peer - https://docs.google.com/spreadsheets/d/1I5LuUrjPdmtO_gl3oxdbQk9sQ
 Диплом.
 [Томилин Борис Витальевич_20222QA00330.pdf](https://github.com/tomilinbvGit/PortfolioRepository/files/8501800/_20222QA00330.pdf)
 
-Диплом "Автоматизация тестирования с помощью Selenium и Python". https://stepik.org/cert/1519804
+Сертификат "Автоматизация тестирования с помощью Selenium и Python". https://stepik.org/cert/1519804
