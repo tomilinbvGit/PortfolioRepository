@@ -22,9 +22,10 @@
 Дипломный проект - https://docs.google.com/spreadsheets/d/1HFZi3kop0NixlKYNXWVS7hh4EhstBzIEoMJaoBrs5lg/edit?usp=drivesdk
 
 P.S. Доплнительно поучавствовал в peer-to-peer проекте (на составление тест-кейсов).
-Peer-to-peer - https://docs.google.com/spreadsheets/d/1I5LuUrjPdmtO_gl3oxdbQk9sQTeFGVB4RHcqjH2Boaw/edit#gid=0
+Peer-to-peer - https://docs.google.com/spreadsheets/d/1I5LuUrjPdmtO_gl3oxdbQk9sQTeFGVB4RHcqjH2Boaw/edit#gid=0.
+Дополнительно пройден курс по автоматизации тестирования с помощью Selenium и Python от Stepik.
 
 Диплом.
 [Томилин Борис Витальевич_20222QA00330.pdf](https://github.com/tomilinbvGit/PortfolioRepository/files/8501800/_20222QA00330.pdf)
 
-Автоматизация тестирования с помощью Selenium и Python. https://stepik.org/cert/1519804
+Диплом "Автоматизация тестирования с помощью Selenium и Python". https://stepik.org/cert/1519804
